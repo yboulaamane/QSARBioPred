@@ -21,7 +21,7 @@ pip install rdkit-pypi scikit-learn pandas matplotlib chembl-webresource-client 
 
 - Cloning the Repository:
 
-git clone https://github.com/yboulaamane/chembl-qsar.git
+git clone https://github.com/yboulaamane/QSARBioPred.git
 
 ### License
 
