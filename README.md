@@ -1,5 +1,5 @@
 # QSARBioPred: ML and AI based QSAR modeling for bioactivity prediction of drugs
-![qsarbiopred-github](https://github.com/yboulaamane/QSARBioPred/assets/7014404/81f9f34d-02f8-4720-80c1-eb1110412154)
+![qsarbiopred](https://github.com/yboulaamane/QSARBioPred/assets/7014404/792eea3d-a908-4cb7-b1d4-487fc0c25200)
 
 This project develops machine learning and convolutional neural network models to predict the bioactivity of natural compounds drawn from the Ambinter dataset.
 
