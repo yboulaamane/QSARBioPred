@@ -8,8 +8,9 @@ This project develops machine learning and convolutional neural network models t
 - Python 3.x
 - RDKit (Molecular descriptor calculation)
 - Scikit-learn (Machine learning algorithms)
+- TensorFlow (Convolutional neural network)
 - Pandas (Data manipulation)
-- Matplotlib (Visualizations)
+- Matplotlib (Visualization)
 
 ### Getting Started
 
@@ -26,6 +27,10 @@ git clone https://github.com/yboulaamane/QSARBioPred.git
 ### License
 
 This project is released under the MIT License.
+
+### How to cite
+
+Smani, Y., Boulaamane, Y., Panadero, I. M., Hmadcha, A., Rey, C. A., Baammi, S., ... & Maurady, A. (2023). Antibiotic discovery with artificial intelligence for the treatment of Acinetobacter baumannii infections.
 
 ### Contact
 
