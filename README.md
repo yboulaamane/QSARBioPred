@@ -30,7 +30,7 @@ This project is released under the MIT License.
 
 ### How to cite
 
-Smani, Y., Boulaamane, Y., Panadero, I. M., Hmadcha, A., Rey, C. A., Baammi, S., ... & Maurady, A. (2023). Antibiotic discovery with artificial intelligence for the treatment of Acinetobacter baumannii infections.
+Boulaamane, Y., Molina Panadero, I., Hmadcha, A., Atalaya Rey, C., Baammi, S., El Allali, A., ... & Smani, Y. (2024). Antibiotic discovery with artificial intelligence for the treatment of Acinetobacter baumannii infections. mSystems, e00325-24. DOI: https://doi.org/10.1128/msystems.00325-24
 
 ### Contact
 
